@@ -1,9 +1,9 @@
 
-// Variáveis declaradas com "var" podem ser atualizadas
-var z = 3;
+// // Variáveis declaradas com "var" podem ser atualizadas
+// var z = 3;
 
-// Teste do var
-var z = 2;
+// // Teste do var
+// var z = 2;
 
 // Variáveis declaradas com var podem ser atualizadas, enquanto variáveis declaradas com const não podem.
 const y = 2;
